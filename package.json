@@ -1,0 +1,3 @@
+cd C:\Users\USER0\Masashi-Kashimoto
+npm init -y
+npm pkg set type=module
